@@ -8,7 +8,7 @@ comments: false
     
 ## About
 
-This is an about page where your can talk about your professional experience and academic interests. This page is written in Markdown, a markup language that's intentionally easy to read and write. For a quick rundown, check out [Adam Pritchard's cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
+This is an about page where your can talk about your professional experience and academic interests. This page is written in Markdown, a markup language that's intentionally easy to read and write. For a quick rundown, check out [GitHub's guide](https://guides.github.com/features/mastering-markdown/). 
 
 You can also add a call to action by creating a button below:
       
@@ -17,3 +17,5 @@ You can also add a call to action by creating a button below:
 or
 
 [Email me](mailto:username@email.com){: .btn}
+
+> Note that these buttons are unique to this theme and are **not** standard in Markdown. 
