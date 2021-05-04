@@ -9,22 +9,34 @@ This guide is not an introduction to Git nor any best practices.
    > Note that the username you choose will be a part of your web address.
 
    Make sure you verify the confirmation email.
+   
+   ![Verify conformation email](https://i.imgur.com/NIGYlVK.gif)
 
 1. Click **Fork** at the top of this page to make a copy of the `matcttu.github.io` repository.
+
+   ![Click fork](https://i.imgur.com/sqL26aO.gif)
 
    After a few moments, all of the files will be copied into a repository you own.
 
 1. Click **Settings**.
 
+   ![Click settings](https://i.imgur.com/Z3rzO7t.gif)
+
 1. Replace `matcttu` with your username, and then click **Rename**.
+
+   ![Update the Repo name](https://i.imgur.com/RV0kw0A.gif)
 
    > Note that `**username**.githib.io` will be your site's URL or web address, but before you can visit your site, you need to update the config file.
 
 1. Click `_config.yml` to open the file.
 
+   ![Open _config.yml](https://i.imgur.com/hsthdhY.gif)
+
     This config file controls many aspects of the site including front page text, logo and background branding, and social icons, but you can ignore all of that for right now.
 
 1. Click the Pencil icon to open the file for editing and then replace `MATCTTU` on line 11 with your username.
+
+   ![Click the pencil icon](https://i.imgur.com/g1hJqNC.gif)
 
 1. Scroll all the way down, then click **Commit changes**.
 
