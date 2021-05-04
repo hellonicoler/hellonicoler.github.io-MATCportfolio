@@ -1,6 +1,6 @@
 This guide shows you how to create [a simple website](https://matcttu.github.io/) without messing with HTML or CSS or typing a command. The website is a fork of the Jekyll theme **[Moon](https://taylantatli.github.io/Moon)**. You can browse other free themes at [jekyllthemes.io/free](https://jekyllthemes.io/free).
 
-This guide is not an introduction to Git nor any best practices.
+This guide is not an introduction to Git nor any best practices. You may want to open this page in another tab because some steps will take you away from this page.
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ This guide is not an introduction to Git nor any best practices.
 
    ![Update the Repo name](https://i.imgur.com/RV0kw0A.gif)
 
-   > Note that `**username**.githib.io` will be your site's URL or web address, but before you can visit your site, you need to update the config file.
+   > Note that `username.githib.io` will be your site's URL or web address, but before you can visit your site, you need to update the config file.
 
 1. Click `_config.yml` to open the file.
 
