@@ -120,7 +120,7 @@ comments: true
 
 1. Enter the name of your project in the following format `year-month-day-project-title.md`, for example `2021-04-31-my-first-post.md`
 
-   > Note that everything following the day will be make up the posts URL, so keep it short.
+   > Note that everything following the day will make up the post's URL, so keep it short.
 
 1. Copy and paste the template from above into the file.
 
