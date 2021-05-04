@@ -44,7 +44,9 @@ This guide is not an introduction to Git nor any best practices.
 
    > Note that commiting changes directly to the `master` branch and without descriptions is in fact a **BAD** practice. Avoid this in actual colaborative projects.
 
-You can now view your live site at https://username.github.io, replacing `username` with your username, of course. If you don't see your site, go to **Settings** > 
+You can now view your live site at https://username.github.io, replacing `username` with your username, of course. If you don't see your site, go to **Settings** > **Pages** to verify GitHub Pages is publishing your site. You also may have to change the Source branch:
+
+![Change source branch](https://i.imgur.com/VF2CRmm.gif)
 
 ## Customizing your site
 
