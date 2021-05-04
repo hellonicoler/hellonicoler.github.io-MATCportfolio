@@ -1,4 +1,4 @@
-This guide shows you how to create [a simple website](https://matcttu.github.io/) on GitHub pages for free. The website is a fork of the Jekyll theme **[Moon](https://taylantatli.github.io/Moon)**. You can browse other free themes at [jekyllthemes.io/free](https://jekyllthemes.io/free).
+This guide shows you how to create [a simple website](https://matcttu.github.io/) without messing with HTML or CSS or typing a command. The website is a fork of the Jekyll theme **[Moon](https://taylantatli.github.io/Moon)**. You can browse other free themes at [jekyllthemes.io/free](https://jekyllthemes.io/free).
 
 This guide is not an introduction to Git nor any best practices.
 
