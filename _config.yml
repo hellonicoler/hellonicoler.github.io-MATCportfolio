@@ -1,4 +1,4 @@
-# Site
+o# Site
 title:              Nicole Rothenay, MATC Portfolio
 bio:                'This portfolio holds projects created during my time in the Texas Tech MATC program.'
 description:        "Nicole Rothenay's portfolio in partial fullfillment of Texas Tech's MATC program."
@@ -38,19 +38,19 @@ disqus_shortname:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            hellonicoler
+#facebook:           username
+github-url:         hellonicoler
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          nrothenay
 #xing:              username
-instagram:          username
+instagram:          hellonicoler
 #lastfm:            username
 #tumblr:            username
-#medium:            '@username'
+medium:            '@hellonicoler'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
