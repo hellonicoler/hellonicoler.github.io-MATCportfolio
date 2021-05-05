@@ -18,4 +18,6 @@ or
 
 [Email me](mailto:username@email.com){: .btn}
 
+What happens when I do this? How do I link to this page?
+
 > Note that these buttons are unique to this theme and are **not** standard in Markdown. 
